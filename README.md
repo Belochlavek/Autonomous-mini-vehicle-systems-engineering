@@ -1,8 +1,6 @@
 # Autonomous Mini-Vehicle
 Systems and Requirements Engineering Portfolio Project
 
-Autonomous Mini-Vehicle portfolio project demonstrating Systems and Requirements Engineering practices for automotive applications.
-
 
 ## Project Overview
 
