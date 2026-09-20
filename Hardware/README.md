@@ -38,7 +38,9 @@ Hardware components will not be selected solely based on availability.
 The planned process is:
 
 System Requirements
+
         ↓
+        
 System Architecture
         ↓
 Hardware Requirements
