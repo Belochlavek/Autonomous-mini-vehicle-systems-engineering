@@ -39,18 +39,26 @@ The planned process is:
 
 System Requirements
         ↓
+        
 System Architecture
         ↓
+        
 Hardware Requirements
         ↓
+        
 Interface Requirements
         ↓
+        
 Component Evaluation
         ↓
+        
 Component Selection
         ↓
+        
 Prototype
         ↓
+        
 Integration
         ↓
+        
 Verification
