@@ -27,14 +27,14 @@ The final goal is to develop a functional mini-vehicle capable of autonomous ope
 The project is intended to provide practical experience with:
 
 - Requirements Engineering
-- System Requirements and Requirements Decomposition
-- Requirements Traceability
+- Requirements Management and Traceability
+- IBM DOORS / DOORS Next
 - System Architecture
 - SysML and Model-Based Systems Engineering (MBSE)
 - V-Model development
 - Verification & Validation
 - Engineering Change Management
-- Embedded hardware and software
-- Sensor integration and LiDAR
-- CAN communication where appropriate
+- Embedded hardware and software integration
+- Sensor and LiDAR integration
+- CAN communication and CANoe where appropriate
 - Automotive SPICE concepts
