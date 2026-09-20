@@ -21,7 +21,7 @@ The project follows a structured engineering lifecycle from stakeholder needs an
 
 The final goal is to develop a functional mini-vehicle capable of autonomous operation in a defined test environment while documenting the engineering decisions and development process.
 
-
+---
 ## Project Objectives
 
 The project is intended to provide practical experience with:
