@@ -12,6 +12,7 @@ Systems and Requirements Engineering Portfolio Project
 
 This project is actively being developed. Documentation, models, requirements, implementation, and test evidence will be added progressively as the project moves through the engineering lifecycle.
 
+
 ## Project Overview
 
 The autonomous Mini-Vehicle is a personal engineering project focused on applying Systems and Requirements Engineering methods to the development of a small-scale autonomous vehicle.
@@ -19,3 +20,21 @@ The autonomous Mini-Vehicle is a personal engineering project focused on applyin
 The project follows a structured engineering lifecycle from stakeholder needs and system requirements through architecture, implementation, integration, verification, and validation.
 
 The final goal is to develop a functional mini-vehicle capable of autonomous operation in a defined test environment while documenting the engineering decisions and development process.
+
+
+## Project Objectives
+
+The project is intended to provide practical experience with:
+
+- Requirements Engineering
+- System Requirements and Requirements Decomposition
+- Requirements Traceability
+- System Architecture
+- SysML and Model-Based Systems Engineering (MBSE)
+- V-Model development
+- Verification & Validation
+- Engineering Change Management
+- Embedded hardware and software
+- Sensor integration and LiDAR
+- CAN communication where appropriate
+- Automotive SPICE concepts
